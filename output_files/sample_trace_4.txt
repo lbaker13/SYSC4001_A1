@@ -1,0 +1,340 @@
+0, 1, switch to kernel mode
+1, 10, context saved
+11, 1, find vector 9 in memory position 0x0012
+12, 1, load address 0X036C into the PC
+13, 156, execute ISR
+169, 1, IRET
+170, 1, switch to user mode
+171, 61, CPU
+232, 9, END_IO
+241, 27, CPU
+268, 1, switch to kernel mode
+269, 10, context saved
+279, 1, find vector 17 in memory position 0x0022
+280, 1, load address 0X05B3 into the PC
+281, 235, execute ISR
+516, 1, IRET
+517, 1, switch to user mode
+518, 19, CPU
+537, 17, END_IO
+554, 92, CPU
+646, 1, switch to kernel mode
+647, 10, context saved
+657, 1, find vector 8 in memory position 0x0010
+658, 1, load address 0X06EF into the PC
+659, 1000, execute ISR
+1659, 1, IRET
+1660, 1, switch to user mode
+1661, 36, CPU
+1697, 8, END_IO
+1705, 19, CPU
+1724, 1, switch to kernel mode
+1725, 10, context saved
+1735, 1, find vector 1 in memory position 0x0002
+1736, 1, load address 0X029C into the PC
+1737, 100, execute ISR
+1837, 1, IRET
+1838, 1, switch to user mode
+1839, 33, CPU
+1872, 1, END_IO
+1873, 90, CPU
+1963, 1, switch to kernel mode
+1964, 10, context saved
+1974, 1, find vector 20 in memory position 0x0028
+1975, 1, load address 0X07B7 into the PC
+1976, 0, execute ISR
+1976, 1, IRET
+1977, 1, switch to user mode
+1978, 13, CPU
+1991, 20, END_IO
+2011, 12, CPU
+2023, 1, switch to kernel mode
+2024, 10, context saved
+2034, 1, find vector 13 in memory position 0x001A
+2035, 1, load address 0X06C7 into the PC
+2036, 636, execute ISR
+2672, 1, IRET
+2673, 1, switch to user mode
+2674, 23, CPU
+2697, 13, END_IO
+2710, 51, CPU
+2761, 1, switch to kernel mode
+2762, 10, context saved
+2772, 1, find vector 10 in memory position 0x0014
+2773, 1, load address 0X07B0 into the PC
+2774, 564, execute ISR
+3338, 1, IRET
+3339, 1, switch to user mode
+3340, 49, CPU
+3389, 10, END_IO
+3399, 87, CPU
+3486, 1, switch to kernel mode
+3487, 10, context saved
+3497, 1, find vector 5 in memory position 0x000A
+3498, 1, load address 0X048B into the PC
+3499, 211, execute ISR
+3710, 1, IRET
+3711, 1, switch to user mode
+3712, 55, CPU
+3767, 5, END_IO
+3772, 17, CPU
+3789, 1, switch to kernel mode
+3790, 10, context saved
+3800, 1, find vector 3 in memory position 0x0006
+3801, 1, load address 0X042B into the PC
+3802, 300, execute ISR
+4102, 1, IRET
+4103, 1, switch to user mode
+4104, 66, CPU
+4170, 3, END_IO
+4173, 93, CPU
+4266, 1, switch to kernel mode
+4267, 10, context saved
+4277, 1, find vector 20 in memory position 0x0028
+4278, 1, load address 0X07B7 into the PC
+4279, 0, execute ISR
+4279, 1, IRET
+4280, 1, switch to user mode
+4281, 12, CPU
+4293, 20, END_IO
+4313, 88, CPU
+4401, 1, switch to kernel mode
+4402, 10, context saved
+4412, 1, find vector 14 in memory position 0x001C
+4413, 1, load address 0X0165 into the PC
+4414, 456, execute ISR
+4870, 1, IRET
+4871, 1, switch to user mode
+4872, 79, CPU
+4951, 14, END_IO
+4965, 93, CPU
+5058, 1, switch to kernel mode
+5059, 10, context saved
+5069, 1, find vector 1 in memory position 0x0002
+5070, 1, load address 0X029C into the PC
+5071, 100, execute ISR
+5171, 1, IRET
+5172, 1, switch to user mode
+5173, 94, CPU
+5267, 1, END_IO
+5268, 68, CPU
+5336, 1, switch to kernel mode
+5337, 10, context saved
+5347, 1, find vector 3 in memory position 0x0006
+5348, 1, load address 0X042B into the PC
+5349, 300, execute ISR
+5649, 1, IRET
+5650, 1, switch to user mode
+5651, 58, CPU
+5709, 3, END_IO
+5712, 48, CPU
+5760, 1, switch to kernel mode
+5761, 10, context saved
+5771, 1, find vector 14 in memory position 0x001C
+5772, 1, load address 0X0165 into the PC
+5773, 456, execute ISR
+6229, 1, IRET
+6230, 1, switch to user mode
+6231, 87, CPU
+6318, 14, END_IO
+6332, 72, CPU
+6404, 1, switch to kernel mode
+6405, 10, context saved
+6415, 1, find vector 8 in memory position 0x0010
+6416, 1, load address 0X06EF into the PC
+6417, 1000, execute ISR
+7417, 1, IRET
+7418, 1, switch to user mode
+7419, 82, CPU
+7501, 8, END_IO
+7509, 99, CPU
+7608, 1, switch to kernel mode
+7609, 10, context saved
+7619, 1, find vector 18 in memory position 0x0024
+7620, 1, load address 0X060A into the PC
+7621, 123, execute ISR
+7744, 1, IRET
+7745, 1, switch to user mode
+7746, 65, CPU
+7811, 18, END_IO
+7829, 24, CPU
+7853, 1, switch to kernel mode
+7854, 10, context saved
+7864, 1, find vector 12 in memory position 0x0018
+7865, 1, load address 0X03B9 into the PC
+7866, 145, execute ISR
+8011, 1, IRET
+8012, 1, switch to user mode
+8013, 26, CPU
+8039, 12, END_IO
+8051, 54, CPU
+8105, 1, switch to kernel mode
+8106, 10, context saved
+8116, 1, find vector 11 in memory position 0x0016
+8117, 1, load address 0X01F8 into the PC
+8118, 523, execute ISR
+8641, 1, IRET
+8642, 1, switch to user mode
+8643, 78, CPU
+8721, 11, END_IO
+8732, 66, CPU
+8798, 1, switch to kernel mode
+8799, 10, context saved
+8809, 1, find vector 15 in memory position 0x001E
+8810, 1, load address 0X0584 into the PC
+8811, 68, execute ISR
+8879, 1, IRET
+8880, 1, switch to user mode
+8881, 79, CPU
+8960, 15, END_IO
+8975, 82, CPU
+9057, 1, switch to kernel mode
+9058, 10, context saved
+9068, 1, find vector 4 in memory position 0x0008
+9069, 1, load address 0X0292 into the PC
+9070, 250, execute ISR
+9320, 1, IRET
+9321, 1, switch to user mode
+9322, 88, CPU
+9410, 4, END_IO
+9414, 16, CPU
+9430, 1, switch to kernel mode
+9431, 10, context saved
+9441, 1, find vector 8 in memory position 0x0010
+9442, 1, load address 0X06EF into the PC
+9443, 1000, execute ISR
+10443, 1, IRET
+10444, 1, switch to user mode
+10445, 26, CPU
+10471, 8, END_IO
+10479, 22, CPU
+10501, 1, switch to kernel mode
+10502, 10, context saved
+10512, 1, find vector 18 in memory position 0x0024
+10513, 1, load address 0X060A into the PC
+10514, 123, execute ISR
+10637, 1, IRET
+10638, 1, switch to user mode
+10639, 95, CPU
+10734, 18, END_IO
+10752, 63, CPU
+10815, 1, switch to kernel mode
+10816, 10, context saved
+10826, 1, find vector 18 in memory position 0x0024
+10827, 1, load address 0X060A into the PC
+10828, 123, execute ISR
+10951, 1, IRET
+10952, 1, switch to user mode
+10953, 18, CPU
+10971, 18, END_IO
+10989, 50, CPU
+11039, 1, switch to kernel mode
+11040, 10, context saved
+11050, 1, find vector 14 in memory position 0x001C
+11051, 1, load address 0X0165 into the PC
+11052, 456, execute ISR
+11508, 1, IRET
+11509, 1, switch to user mode
+11510, 56, CPU
+11566, 14, END_IO
+11580, 83, CPU
+11663, 1, switch to kernel mode
+11664, 10, context saved
+11674, 1, find vector 16 in memory position 0x0020
+11675, 1, load address 0X02DF into the PC
+11676, 956, execute ISR
+12632, 1, IRET
+12633, 1, switch to user mode
+12634, 23, CPU
+12657, 16, END_IO
+12673, 80, CPU
+12753, 1, switch to kernel mode
+12754, 10, context saved
+12764, 1, find vector 15 in memory position 0x001E
+12765, 1, load address 0X0584 into the PC
+12766, 68, execute ISR
+12834, 1, IRET
+12835, 1, switch to user mode
+12836, 98, CPU
+12934, 15, END_IO
+12949, 77, CPU
+13026, 1, switch to kernel mode
+13027, 10, context saved
+13037, 1, find vector 14 in memory position 0x001C
+13038, 1, load address 0X0165 into the PC
+13039, 456, execute ISR
+13495, 1, IRET
+13496, 1, switch to user mode
+13497, 11, CPU
+13508, 14, END_IO
+13522, 61, CPU
+13583, 1, switch to kernel mode
+13584, 10, context saved
+13594, 1, find vector 14 in memory position 0x001C
+13595, 1, load address 0X0165 into the PC
+13596, 456, execute ISR
+14052, 1, IRET
+14053, 1, switch to user mode
+14054, 34, CPU
+14088, 14, END_IO
+14102, 32, CPU
+14134, 1, switch to kernel mode
+14135, 10, context saved
+14145, 1, find vector 7 in memory position 0x000E
+14146, 1, load address 0X00BD into the PC
+14147, 152, execute ISR
+14299, 1, IRET
+14300, 1, switch to user mode
+14301, 69, CPU
+14370, 7, END_IO
+14377, 79, CPU
+14456, 1, switch to kernel mode
+14457, 10, context saved
+14467, 1, find vector 20 in memory position 0x0028
+14468, 1, load address 0X07B7 into the PC
+14469, 0, execute ISR
+14469, 1, IRET
+14470, 1, switch to user mode
+14471, 41, CPU
+14512, 20, END_IO
+14532, 63, CPU
+14595, 1, switch to kernel mode
+14596, 10, context saved
+14606, 1, find vector 7 in memory position 0x000E
+14607, 1, load address 0X00BD into the PC
+14608, 152, execute ISR
+14760, 1, IRET
+14761, 1, switch to user mode
+14762, 27, CPU
+14789, 7, END_IO
+14796, 85, CPU
+14881, 1, switch to kernel mode
+14882, 10, context saved
+14892, 1, find vector 11 in memory position 0x0016
+14893, 1, load address 0X01F8 into the PC
+14894, 523, execute ISR
+15417, 1, IRET
+15418, 1, switch to user mode
+15419, 68, CPU
+15487, 11, END_IO
+15498, 23, CPU
+15521, 1, switch to kernel mode
+15522, 10, context saved
+15532, 1, find vector 14 in memory position 0x001C
+15533, 1, load address 0X0165 into the PC
+15534, 456, execute ISR
+15990, 1, IRET
+15991, 1, switch to user mode
+15992, 22, CPU
+16014, 14, END_IO
+16028, 29, CPU
+16057, 1, switch to kernel mode
+16058, 10, context saved
+16068, 1, find vector 17 in memory position 0x0022
+16069, 1, load address 0X05B3 into the PC
+16070, 235, execute ISR
+16305, 1, IRET
+16306, 1, switch to user mode
+16307, 99, CPU
+16406, 17, END_IO
+16423, 46, CPU
